@@ -1,0 +1,4 @@
+SOCKET_PATH_DEFAULT = "~/.veritas/warden.sock"
+LOG_DIR_DEFAULT = "~/.veritas/logs"
+SESSION_TTL_SECONDS = 3600
+SESSION_MAX = 1000
